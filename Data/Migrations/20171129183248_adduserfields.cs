@@ -11,7 +11,7 @@ namespace student5.Data.Migrations
             migrationBuilder.DropIndex(
                 name: "IX_AspNetUserRoles_UserId",
                 table: "AspNetUserRoles");
-
+            //test
             migrationBuilder.DropIndex(
                 name: "RoleNameIndex",
                 table: "AspNetRoles");
